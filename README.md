@@ -1,0 +1,1 @@
+# ML-Models-for-Predicting-Shear-Strength-of-CFS-Slotted-Channels
